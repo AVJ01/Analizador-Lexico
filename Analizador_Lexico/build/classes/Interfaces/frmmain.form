@@ -151,7 +151,7 @@
     <Component class="javax.swing.JButton" name="BTNRun">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Recursos/tocar.png"/>
+          <Image iconType="3" name="/Recursos/correr.png"/>
         </Property>
       </Properties>
       <Events>
@@ -263,7 +263,7 @@
     <Component class="javax.swing.JButton" name="BTNClean">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Recursos/sweeping.png"/>
+          <Image iconType="3" name="/Recursos/limpiar.png"/>
         </Property>
       </Properties>
       <Events>

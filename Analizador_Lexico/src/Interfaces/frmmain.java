@@ -72,7 +72,7 @@ public class frmmain extends javax.swing.JFrame {
         });
         jScrollPane1.setViewportView(TACode);
 
-        BTNRun.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/tocar.png"))); // NOI18N
+        BTNRun.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/correr.png"))); // NOI18N
         BTNRun.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 BTNRunActionPerformed(evt);
@@ -132,7 +132,7 @@ public class frmmain extends javax.swing.JFrame {
         jLabel4.setFont(new java.awt.Font("Arial", 0, 14)); // NOI18N
         jLabel4.setText("Tabla de Lexemas:");
 
-        BTNClean.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/sweeping.png"))); // NOI18N
+        BTNClean.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/limpiar.png"))); // NOI18N
         BTNClean.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 BTNCleanActionPerformed(evt);
