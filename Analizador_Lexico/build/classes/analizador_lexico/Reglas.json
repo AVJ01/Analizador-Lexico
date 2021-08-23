@@ -1,0 +1,14 @@
+{ 
+    "Autor": "AVJ",
+
+    "OperadorArit": ["+", "-", "*", "/", "%"],
+
+    "OperadorLogico": ["&&", "||", "!", "!=", "==", ">=", "<=", ">", "<", "=", "|", "&"],
+
+    "SimbolosEspe": ["{", "}", "(", ")", ";", "#", ":", ".", ",", "[", "]"],
+
+    "PalabraReservada": ["for", "while", "case", "break", "if", "else", "do", "bool", "catch", "int", "double", "char", "string",
+        "class", "continue", "defaul", "delete", "enum", "false", "float", "friend", "goto", "long", "namespace", "new",
+        "private", "protected", "return", "public", "sizeof", "struct", "switch", "static", "using", "std", "try", "true", "void",
+        "throw", "this", "cout", "cin", "print", "system", "endl", "getch", "include", "define"]
+}
